@@ -1,10 +1,9 @@
-```markdown
 # Java Hello World - Maven + Jenkins
 
 This is a simple **Java Hello World application** built using **Maven**.  
 It is used to practice **CI/CD pipelines in Jenkins**.
 
----
+
 
 ## 📂 Project Structure
 ```

@@ -1,7 +1,7 @@
 # Java Hello World - Maven + Jenkins
 
-This is a simple **Java Hello World application** built using **Maven**.  
-It is used to practice **CI/CD pipelines in Jenkins**.
+This is a simple "Java Hello World application" built using "Maven".  
+It is used to practice "CI/CD pipelines in Jenkins".
 
 
 
@@ -79,7 +79,8 @@ Hello, Jenkins + Maven!
 
   ```
   clean test
-  ```
+  ``
+````
 <br>
 <br>
 <img width="1566" height="564" alt="Screenshot 2025-10-03 200828" src="https://github.com/user-attachments/assets/617f33ff-4377-4181-b606-5659d8e59a38" />

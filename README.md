@@ -86,6 +86,7 @@ Hello, Jenkins + Maven!
 <img width="1566" height="564" alt="Screenshot 2025-10-03 200828" src="https://github.com/user-attachments/assets/617f33ff-4377-4181-b606-5659d8e59a38" />
 <br>
 <br>
+<img width="1286" height="514" alt="image" src="https://github.com/user-attachments/assets/258ebd8b-f4c0-4413-8271-2c3efb4e8f24" />
 <br>
 <br>
 <img width="1282" height="256" alt="Screenshot 2025-10-03 203151" src="https://github.com/user-attachments/assets/2ed5218c-276a-4505-a25e-57663e9731e7" />

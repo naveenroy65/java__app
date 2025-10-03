@@ -32,7 +32,8 @@ java__app/
    ```bash
    git clone https://github.com/naveenroy65/java__app.git
    cd java__app
-````
+   
+``
 
 2. Build the project:
 
@@ -79,8 +80,8 @@ Hello, Jenkins + Maven!
 
   ```
   clean test
-  ``
-````
+  ````
+---
 <br>
 <br>
 <img width="1566" height="564" alt="Screenshot 2025-10-03 200828" src="https://github.com/user-attachments/assets/617f33ff-4377-4181-b606-5659d8e59a38" />
